@@ -84,16 +84,8 @@ nav a:hover {
 }
 
 /* Estilo para o botão de destaque no menu (Compre Aqui) */
-nav li:last-child a {
-    background-color: #FDF195; /* Amarelo do pintinho */
-    color: #4A3728;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
 
-nav li:last-child a:hover {
-    background-color: #f7e66d;
-    transform: translateY(-2px);
-}
+
 
 /* Hero Section */
 .hero {
